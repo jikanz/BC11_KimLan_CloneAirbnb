@@ -1,0 +1,66 @@
+.home__page {
+  margin: auto;
+}
+.traiNghiem {
+  display: flex;
+  justify-content: space-between;
+}
+.traiNghiem img {
+  border-radius: 16px;
+}
+.traiNghiem p {
+  font-size: 53px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 60px;
+  max-width: 376px;
+}
+.traiNghiem__left {
+  position: relative;
+}
+.traiNghiem__left__text {
+  left: 10%;
+  top: 6%;
+  position: absolute;
+  color: white;
+}
+.traiNghiem__right {
+  position: relative;
+}
+.traiNghiem__right__text {
+  left: 10%;
+  top: 6%;
+  position: absolute;
+  color: white;
+}
+.traiNghiem a {
+  color: black;
+}
+.traiNghiem button {
+  padding: 4px 16px;
+  border-radius: 10px;
+}
+.cities {
+  height: 125px;
+}
+.yKien__absolute {
+  left: 10%;
+  top: 6%;
+  position: absolute;
+  color: white;
+}
+.yKien {
+  position: relative;
+}
+.yKien p {
+  color: #ffffff;
+  font-size: 95px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 105px;
+  max-width: 700px;
+}
+.yKien button {
+  padding: 4px 16px;
+  border-radius: 10px;
+}

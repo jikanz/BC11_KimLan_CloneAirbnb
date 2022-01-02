@@ -1,0 +1,9 @@
+.hero {
+  background-color: black;
+  color: #fff;
+  width: 100%;
+}
+.hero__background {
+  max-width: 1200px;
+  margin: auto;
+}
